@@ -1,0 +1,11 @@
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\bin\Release\net5.0\Properties.Data.deps.json
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\bin\Release\net5.0\Properties.Data.dll
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\bin\Release\net5.0\ref\Properties.Data.dll
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\bin\Release\net5.0\Properties.Data.pdb
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\obj\Release\net5.0\Properties.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\obj\Release\net5.0\Properties.Data.AssemblyInfoInputs.cache
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\obj\Release\net5.0\Properties.Data.AssemblyInfo.cs
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\obj\Release\net5.0\Properties.Data.csproj.CoreCompileInputs.cache
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\obj\Release\net5.0\Properties.Data.dll
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\obj\Release\net5.0\ref\Properties.Data.dll
+C:\Users\GHIE29036\Documents\Visual Studio 2019\NYFulcrumAPI\Properties.Data\obj\Release\net5.0\Properties.Data.pdb
